@@ -8,7 +8,7 @@
 
 ### Step 2: Animation ###
 
-github URL: (https://github.com/Mavericklovish/102117148-Lovish--102117157-Soham-CG-Project.git)
+github URL: (https://github.com/Mavericklovish/Fish-Food.github.io)
 
 ### Step 3: Youtube video link ###
 
@@ -16,7 +16,7 @@ Youtube URL: (https://youtu.be/xM4IKmJ4Bqk)
 
 ### Step 4: Live page link ###
 
-Live page URL:
+Live page URL: (https://mavericklovish.github.io/Fish-Food.github.io/)
 
 ## Submit ##
 
